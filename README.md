@@ -1,3 +1,1 @@
 "# InformaticaTheorie_GitHub" 
-
-pull?
